@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Iman</h1>
 <h3 align="center">A passionate developer from Azerbaijan</h3>
-<img align="right" alt="Coding" width="400" src="[https://i.gifer.com/wIM.mp4](https://c.tenor.com/46CnZ6Y_rlYAAAAC/moss-it-crowd.gif)">
+<img align="right" alt="Coding" width="400" src="[https://i.gifer.com/wIM.mp4](https://c.tenor.com/46CnZ6Y_rlYAAAAC/moss-it-crowd.gif)](https://c.tenor.com/46CnZ6Y_rlYAAAAC/moss-it-crowd.gif)">
 
 - 🌱 I’m currently learning **Python, Data Science**
 
