@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate developer from Azerbaijan</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/46CnZ6Y_rlYAAAAC/moss-it-crowd.gif">
 
-- 🌱 I’m currently learning **Python, Data Science**
+- 🌱 I’m currently learning **R Programming, Data Visualization**
 
 - 💬 Ask me about **Game Development, Frontend Development**
 
